@@ -6,6 +6,6 @@ namespace AguiarPay.Business.Models
 {
     public class ComandaColetiva : Entity
     {
-        public PedidoColetivo PedidoColetivo { get; set; }
+        public IEnumerable<PedidoColetivo> PedidosColetivos { get; set; }
     }
 }

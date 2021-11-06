@@ -8,11 +8,11 @@ namespace AguiarPay.Business.Models
     {
         public string Nome { get; set; }
         public decimal Valor { get; set; }
+        public string Descricao { get; set; }
+        public string Imagem { get; set; }
         public bool Status { get; set; }
-        public PedidoIndividual PedidoIndividual { get; set; }
-        public PedidoColetivo PedidoColetivo { get; set; }
-        public Guid PedidoIndividualId { get; set; }
-        public Guid PedidoColetivoId { get; set; }
 
+        public IEnumerable<PedidoColetivo> PedidosColetivos { get; set; }
+        public IEnumerable<PedidoIndividual> PedidosIndividuais { get; set; }
     }
 }

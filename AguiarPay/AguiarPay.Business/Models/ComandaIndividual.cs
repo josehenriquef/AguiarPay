@@ -6,6 +6,6 @@ namespace AguiarPay.Business.Models
 {
     public class ComandaIndividual : Entity
     {
-        public PedidoIndividual PedidoIndividual { get; set; }
+        public IEnumerable<PedidoIndividual> PedidosIndividuais { get; set; }
     }
 }

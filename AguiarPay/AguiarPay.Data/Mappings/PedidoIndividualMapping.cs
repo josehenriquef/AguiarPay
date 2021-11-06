@@ -13,7 +13,7 @@ namespace AguiarPay.Data.Mappings
         {
             builder.HasKey(p => p.Id);
 
-            builder.HasMany(p => p.Produtos).WithOne(p => p.PedidoIndividual).HasForeignKey(p => p.PedidoIndividualId);
+            builder.HasOne(p => p.Produto).WithMany(p => p.PedidosIndividuais).HasForeignKey(f => f.ProdutoId);
 
             builder.ToTable("PedidosIndividuais");
         }
