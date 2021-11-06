@@ -1,0 +1,12 @@
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\bin\Debug\netcoreapp3.1\AguiarPay.Data.deps.json
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\bin\Debug\netcoreapp3.1\AguiarPay.Data.dll
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\obj\Debug\netcoreapp3.1\AguiarPay.Data.csprojAssemblyReference.cache
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\obj\Debug\netcoreapp3.1\AguiarPay.Data.AssemblyInfoInputs.cache
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\obj\Debug\netcoreapp3.1\AguiarPay.Data.AssemblyInfo.cs
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\bin\Debug\netcoreapp3.1\AguiarPay.Business.dll
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\bin\Debug\netcoreapp3.1\AguiarPay.Data.pdb
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\bin\Debug\netcoreapp3.1\AguiarPay.Business.pdb
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\obj\Debug\netcoreapp3.1\AguiarPay.Data.csproj.CopyComplete
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\obj\Debug\netcoreapp3.1\AguiarPay.Data.dll
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\obj\Debug\netcoreapp3.1\AguiarPay.Data.pdb
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Data\obj\Debug\netcoreapp3.1\AguiarPay.Data.csproj.CoreCompileInputs.cache

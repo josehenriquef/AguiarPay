@@ -1,0 +1,9 @@
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\bin\Debug\netcoreapp3.1\AguiarPay.Business.deps.json
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\bin\Debug\netcoreapp3.1\AguiarPay.Business.dll
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\bin\Debug\netcoreapp3.1\AguiarPay.Business.pdb
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.AssemblyInfoInputs.cache
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.AssemblyInfo.cs
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.csproj.CoreCompileInputs.cache
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.dll
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.pdb
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.csprojAssemblyReference.cache
