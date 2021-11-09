@@ -1,9 +1,6 @@
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.csprojAssemblyReference.cache
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.AssemblyInfoInputs.cache
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.AssemblyInfo.cs
-C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.csproj.CoreCompileInputs.cache
-C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.MvcApplicationPartsAssemblyInfo.cs
-C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.MvcApplicationPartsAssemblyInfo.cache
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.RazorAssemblyInfo.cache
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.RazorAssemblyInfo.cs
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.TagHelpers.input.cache
