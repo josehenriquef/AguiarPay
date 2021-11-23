@@ -12,9 +12,7 @@ namespace AguiarPay.Presentation.AutoMapper
     {
         public AutoMapperConfig()
         {
-            CreateMap<ComandaColetiva, ComandaColetivaViewModel>().ReverseMap();
             CreateMap<ComandaIndividual, ComandaIndividualViewModel>().ReverseMap();
-            CreateMap<PedidoColetivo, PedidoColetivoViewModel>().ReverseMap();
             CreateMap<PedidoIndividual, PedidoIndividualViewModel>().ReverseMap();
             CreateMap<Produto, ProdutoViewModel>().ReverseMap();
         }

@@ -13,8 +13,6 @@ namespace AguiarPay.Presentation.ViewModels
         public string Descricao { get; set; }
         public string Imagem { get; set; }
         public bool Status { get; set; }
-
-        public IEnumerable<PedidoColetivoViewModel> PedidosColetivos { get; set; }
         public IEnumerable<PedidoIndividualViewModel> PedidosIndividuais { get; set; }
     }
 }
