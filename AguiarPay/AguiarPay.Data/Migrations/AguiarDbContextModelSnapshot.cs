@@ -19,17 +19,6 @@ namespace AguiarPay.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("AguiarPay.Business.Models.ComandaColetiva", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("ComandasColetivas");
-                });
-
             modelBuilder.Entity("AguiarPay.Business.Models.ComandaIndividual", b =>
                 {
                     b.Property<Guid>("Id")
@@ -39,27 +28,6 @@ namespace AguiarPay.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("ComandasIndividuais");
-                });
-
-            modelBuilder.Entity("AguiarPay.Business.Models.PedidoColetivo", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<Guid>("ComandaColetivaId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<Guid>("ProdutoId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ComandaColetivaId");
-
-                    b.HasIndex("ProdutoId");
-
-                    b.ToTable("PedidosColetivos");
                 });
 
             modelBuilder.Entity("AguiarPay.Business.Models.PedidoIndividual", b =>
@@ -109,19 +77,6 @@ namespace AguiarPay.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Produtos");
-                });
-
-            modelBuilder.Entity("AguiarPay.Business.Models.PedidoColetivo", b =>
-                {
-                    b.HasOne("AguiarPay.Business.Models.ComandaColetiva", "ComandaColetiva")
-                        .WithMany("PedidosColetivos")
-                        .HasForeignKey("ComandaColetivaId")
-                        .IsRequired();
-
-                    b.HasOne("AguiarPay.Business.Models.Produto", "Produto")
-                        .WithMany("PedidosColetivos")
-                        .HasForeignKey("ProdutoId")
-                        .IsRequired();
                 });
 
             modelBuilder.Entity("AguiarPay.Business.Models.PedidoIndividual", b =>
