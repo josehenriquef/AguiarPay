@@ -389,3 +389,8 @@ C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\bin\Debug\netcoreapp3.1\Aguiar
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\bin\Debug\netcoreapp3.1\AguiarPay.Data.dll
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\bin\Debug\netcoreapp3.1\AguiarPay.Data.pdb
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\bin\Debug\netcoreapp3.1\AguiarPay.Business.pdb
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.csproj.CoreCompileInputs.cache
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.MvcApplicationPartsAssemblyInfo.cache

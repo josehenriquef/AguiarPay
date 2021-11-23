@@ -11,8 +11,6 @@ namespace AguiarPay.Business.Models
         public string Descricao { get; set; }
         public string Imagem { get; set; }
         public bool Status { get; set; }
-
-        public IEnumerable<PedidoColetivo> PedidosColetivos { get; set; }
         public IEnumerable<PedidoIndividual> PedidosIndividuais { get; set; }
     }
 }

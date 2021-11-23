@@ -32,9 +32,7 @@ namespace AguiarPay.Data.Context
             base.OnModelCreating(modelBuilder);
         }
 
-        public DbSet<ComandaColetiva> ComandasColetivas { get; set; }
         public DbSet<ComandaIndividual> ComandasIndividuais { get; set; }
-        public DbSet<PedidoColetivo> PedidosColetivos { get; set; }
         public DbSet<PedidoIndividual> PedidosIndividuais { get; set; }
         public DbSet<Produto> Produtos { get; set; }
     }
