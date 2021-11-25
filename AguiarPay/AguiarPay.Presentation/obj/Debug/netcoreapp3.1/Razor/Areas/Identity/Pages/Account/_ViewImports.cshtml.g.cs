@@ -27,13 +27,6 @@ using AguiarPay.Presentation.Areas.Identity;
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\Areas\Identity\Pages\_ViewImports.cshtml"
-using AguiarPay.Presentation.Areas.Identity.Pages;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
 #line 1 "C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\Areas\Identity\Pages\Account\_ViewImports.cshtml"
 using AguiarPay.Presentation.Areas.Identity.Pages.Account;
 
@@ -41,7 +34,7 @@ using AguiarPay.Presentation.Areas.Identity.Pages.Account;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7db83925b6f5d1e2be503cef540908b0f382d1e5", @"/Areas/Identity/Pages/Account/_ViewImports.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7cfd4b883cdfc63e0d40c29e768f87105c5f6df7", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5b325a51a9ac0f09e5972d0475033dbafd1a887e", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
     public class Areas_Identity_Pages_Account__ViewImports : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

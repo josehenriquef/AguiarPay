@@ -7,20 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\Images\avatar-01.jpg" />
-    <None Include="wwwroot\Images\avatar-user.jpeg" />
-    <None Include="wwwroot\Images\avatar-user2.jpg" />
-    <None Include="wwwroot\Images\b3.jpg" />
-    <None Include="wwwroot\Images\icons\favicon.ico" />
-    <None Include="wwwroot\Images\icons\icon-google.png" />
-    <None Include="wwwroot\Images\Originals\mandy-logo.png" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.18" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.21" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.21" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.21" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.21" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.21">
       <PrivateAssets>all</PrivateAssets>

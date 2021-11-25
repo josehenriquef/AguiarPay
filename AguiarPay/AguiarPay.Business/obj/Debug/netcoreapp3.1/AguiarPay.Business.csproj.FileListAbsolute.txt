@@ -6,4 +6,3 @@ C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.csproj.CoreCompileInputs.cache
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.dll
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.pdb
-C:\wws\AguiarPay\AguiarPay\AguiarPay.Business\obj\Debug\netcoreapp3.1\AguiarPay.Business.csprojAssemblyReference.cache
