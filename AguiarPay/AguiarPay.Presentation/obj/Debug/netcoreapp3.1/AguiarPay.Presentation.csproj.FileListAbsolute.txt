@@ -473,8 +473,6 @@ C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Aguiar
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\AguiarPay.Presentation.MvcApplicationPartsAssemblyInfo.cache
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\PedidoIndividual\Create.cshtml.g.cs
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\PedidoIndividual\Delete.cshtml.g.cs
-C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\PedidoIndividual\Details.cshtml.g.cs
-C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\PedidoIndividual\Edit.cshtml.g.cs
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\PedidoIndividual\Index.cshtml.g.cs
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Create.cshtml.g.cs
 C:\wws\AguiarPay\AguiarPay\AguiarPay.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Delete.cshtml.g.cs

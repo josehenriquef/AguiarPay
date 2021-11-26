@@ -11,7 +11,6 @@ namespace AguiarPay.Presentation.ViewModels
         public string Nome { get; set; }
         public decimal Valor { get; set; }
         public string Descricao { get; set; }
-        public string Imagem { get; set; }
         public bool Status { get; set; }
         public IEnumerable<PedidoIndividualViewModel> PedidosIndividuais { get; set; }
     }
